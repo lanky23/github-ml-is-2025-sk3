@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/bin/Debug/net9.0/program001-vypis-rady.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/refint/program001-vypis-rady.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/program001-vypis-rady.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program001-vypis-rady/obj/Debug/net9.0/ref/program001-vypis-rady.dll
