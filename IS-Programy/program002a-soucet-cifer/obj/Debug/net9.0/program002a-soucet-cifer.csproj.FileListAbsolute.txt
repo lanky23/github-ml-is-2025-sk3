@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/bin/Debug/net9.0/program002a-soucet-cifer
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/bin/Debug/net9.0/program002a-soucet-cifer.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/bin/Debug/net9.0/program002a-soucet-cifer.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/bin/Debug/net9.0/program002a-soucet-cifer.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/bin/Debug/net9.0/program002a-soucet-cifer.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/refint/program002a-soucet-cifer.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/ref/program002a-soucet-cifer.dll
