@@ -3,19 +3,15 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("************************************************");
-    Console.WriteLine("************** Výpis číselné řady **************");
+    Console.WriteLine("************** NÁZEV PROGRAMU **************");
     Console.WriteLine("************************************************");
     Console.WriteLine("**************** Martin Lankaš *****************");
-    Console.WriteLine("***************** 02.10.2025 *******************");
+    Console.WriteLine("***************** 16.10.2025 *******************");
     Console.WriteLine("************************************************");
     Console.WriteLine();
 
-    // Vstup číselné hodnoty do programu - špatně řešený
-    //Console.Write("Zadejte první číslo řady: ");
-    //int first = int.Parse(Console.ReadLine());  
 
-
-    // Vstup číselné hodnoty do programu - lépe řešený
+    // Vstup HODNOTY DO PROGRAMU
     Console.Write("Zadejte první číslo řady (celé číslo): ");
     int first;
     while (!int.TryParse(Console.ReadLine(), out first))
