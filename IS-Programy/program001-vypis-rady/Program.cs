@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
+using System.Transactions;
+
 string again = "a";
 while (again == "a")
 
@@ -54,7 +56,20 @@ Console.Write("Zadejte diferenci (celé číslo): ");
     Console.WriteLine("===============================");
 
 
-//
+    //Výpis číselné řady 
+
+    Console.WriteLine();
+    Console.WriteLine("===============================");
+    Console.WriteLine("Výpis číselné řady: ");
+
+    int current = first;
+    while (current <= last) {
+        Console.Write(current + ", ");
+        current = current + step; //přičteme diferenci
+
+    }
+
+
 
 
 
