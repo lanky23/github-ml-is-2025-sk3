@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/obj/Debug/net9.0/program004c-tri-objekty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/obj/Debug/net9.0/program004c-tri-objekty.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/obj/Debug/net9.0/program004c-tri-objekty.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/obj/Debug/net9.0/program004c-tri-objekty.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/obj/Debug/net9.0/program004c-tri-objekty.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/bin/Debug/net9.0/program004c-tri-objekty
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/bin/Debug/net9.0/program004c-tri-objekty.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/bin/Debug/net9.0/program004c-tri-objekty.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/bin/Debug/net9.0/program004c-tri-objekty.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/bin/Debug/net9.0/program004c-tri-objekty.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/obj/Debug/net9.0/program004c-tri-objekty.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/obj/Debug/net9.0/refint/program004c-tri-objekty.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/obj/Debug/net9.0/program004c-tri-objekty.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/obj/Debug/net9.0/program004c-tri-objekty.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004c-tri-objekty/obj/Debug/net9.0/ref/program004c-tri-objekty.dll

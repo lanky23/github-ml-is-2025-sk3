@@ -13,7 +13,7 @@ while (again == "a")
 
     // Vstup HODNOTY DO PROGRAMU
     Console.Write("Zadejte výšku trojúhelníku (celé číslo): ");
-    int height;
+    int widht;
     while (!int.TryParse(Console.ReadLine(), out height))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte výšku trojúhelníku znovu: ");
