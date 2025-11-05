@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/bin/Debug/net9.0/program003a-serazeni-dvou-cisel
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/bin/Debug/net9.0/program003a-serazeni-dvou-cisel.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/bin/Debug/net9.0/program003a-serazeni-dvou-cisel.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/bin/Debug/net9.0/program003a-serazeni-dvou-cisel.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/bin/Debug/net9.0/program003a-serazeni-dvou-cisel.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/obj/Debug/net9.0/program003a-serazeni-dvou-cisel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/obj/Debug/net9.0/program003a-serazeni-dvou-cisel.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/obj/Debug/net9.0/program003a-serazeni-dvou-cisel.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/obj/Debug/net9.0/program003a-serazeni-dvou-cisel.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/obj/Debug/net9.0/program003a-serazeni-dvou-cisel.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/obj/Debug/net9.0/program003a-serazeni-dvou-cisel.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/obj/Debug/net9.0/refint/program003a-serazeni-dvou-cisel.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/obj/Debug/net9.0/program003a-serazeni-dvou-cisel.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/obj/Debug/net9.0/program003a-serazeni-dvou-cisel.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program003a-serazeni-dvou-cisel/obj/Debug/net9.0/ref/program003a-serazeni-dvou-cisel.dll
