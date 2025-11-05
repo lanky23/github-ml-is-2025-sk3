@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/bin/Debug/net9.0/program004b-pravouhly-trojuhelnik
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/bin/Debug/net9.0/program004b-pravouhly-trojuhelnik.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/bin/Debug/net9.0/program004b-pravouhly-trojuhelnik.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/bin/Debug/net9.0/program004b-pravouhly-trojuhelnik.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/bin/Debug/net9.0/program004b-pravouhly-trojuhelnik.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/refint/program004b-pravouhly-trojuhelnik.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/program004b-pravouhly-trojuhelnik.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program004b-pravouhly-trojuhelnik/obj/Debug/net9.0/ref/program004b-pravouhly-trojuhelnik.dll
