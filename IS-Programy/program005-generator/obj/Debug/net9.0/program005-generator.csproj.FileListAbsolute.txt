@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/bin/Debug/net9.0/program005-generator
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/bin/Debug/net9.0/program005-generator.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/bin/Debug/net9.0/program005-generator.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/bin/Debug/net9.0/program005-generator.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/bin/Debug/net9.0/program005-generator.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/obj/Debug/net9.0/refint/program005-generator.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program005-generator/obj/Debug/net9.0/ref/program005-generator.dll
