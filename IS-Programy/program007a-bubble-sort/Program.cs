@@ -1,12 +1,13 @@
-﻿string again = "a";
+﻿using System.Diagnostics;
+string again = "a";
 while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("************************************************");
-    Console.WriteLine("************** generator pseudonáhodných čísel************");
+    Console.WriteLine("************** bubble sort************");
     Console.WriteLine("************************************************");
     Console.WriteLine("**************** Martin Lankaš *****************");
-    Console.WriteLine("***************** 6.11.2025 *******************");
+    Console.WriteLine("***************** 20.11.2025 *******************");
     Console.WriteLine("************************************************");
     Console.WriteLine();
 
@@ -41,15 +42,6 @@ while (again == "a")
 
     int[] myRandNumbers = new int[n];
 
-    //ozdělení na záporné kladné nuly 
-    int negativeNumbs = 0;
-    int positiveNumbs = 0;
-    int zeros = 0;
-
-    //rozdělení na liché sudé
-    int evenNumbs = 0;
-    int oddNumbs = 0;
-
     //příprava pro generování náhodných čísel 
 
     Random myRandNumb = new Random();
@@ -59,44 +51,58 @@ while (again == "a")
             for(int i = 0; i < n; i++) {
                 myRandNumbers[i] = myRandNumb.Next(lowerBound, upperBound + 1);
                 Console.Write("{0}; ", myRandNumbers[i]);
-                
             }
 
 
-    /* if(myRandNumbers[i] > 0)
-       positiveNumbs++;
-       if(myRandNumbers[i] < 0)
-      negativeNumbs++;
-       if(myRandNumbers[i] == 0)
-       zeros++;
-    */
-      
-//záporné kladné nuly 
+    int compare = 0; // proměnná pro počet porovnávání 
+    int change = 0; // proměnná pro počet výměn 
 
-    if (myRandNumbers[i] > 0)
-        positiveNumbs++;
-    else if (myRandNumbers[i] < 0)
-        negativeNumbs++;
-    else
-        zeros++;
+    Stopwatch myStopwatch = new Stopwatch();
 
-//sudé liché
+    myStopwatch.Start();
+    for (int i = 0; i > n - 1; i++)
+    {
 
-    if (myRandNumbers[i] % 2 == 0)
-        evenNumbs++;
-    else
-        oddNumbs++;     
+        for (int j = 0; j > n - 1 - i; j++)
+        {
+            compare++;
+            if (myRandNumbers[j] > myRandNumbers[j + 1])
+            {
+                int tmp = myRandNumbers[j + 1] = myRandNumbers[j];
+                myRandNumbers[j] = tmp;
+                change++;
+            }
+
+        }
+    }
+    myStopwatch.Stop();
+
+
 
     Console.WriteLine();
-    Console.WriteLine("=============================================");
-    Console.WriteLine("=============================================");
-    Console.WriteLine("Počet záporných: {0}", negativeNumbs);
-    Console.WriteLine("Počet kladných: {0}", positiveNumbs);
-    Console.WriteLine("Počet nul: {0}", zeros);
-    Console.WriteLine("Počet sudých: {0}", evenNumbs);
-    Console.WriteLine("Počet lichých: {0}", oddNumbs);
-    Console.WriteLine("=============================================");
-    Console.WriteLine("=============================================");
+    Console.WriteLine();
+    Console.WriteLine("==========================================");
+    Console.WriteLine("Seřazené pole: ");
+    Console.WriteLine();
+    for (int i = 0; i < n; i++)
+    {
+        Console.Write("{0}; ", myRandNumbers[i]);
+    }
+
+    Console.WriteLine();
+    Console.WriteLine();
+    Console.WriteLine($"Počet porovnání: {compare}");
+    Console.WriteLine();
+    Console.WriteLine($"Počet změn: {change}");
+    Console.WriteLine();
+    Console.WriteLine(""Čas potřebný na seřazení čísel pomocí BS: {0}", myStopwatch.Elapsed);
+    
+
+
+
+
+
+
 
 
 

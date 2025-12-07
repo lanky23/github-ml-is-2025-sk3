@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/refint/program007a-bubble-sort.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/ref/program007a-bubble-sort.dll

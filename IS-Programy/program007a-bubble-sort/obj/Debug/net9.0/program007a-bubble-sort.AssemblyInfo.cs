@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("program005-generator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program007a-bubble-sort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34ea516fa8ba9040c247e0adf8381c5115272f94")]
-[assembly: System.Reflection.AssemblyProductAttribute("program005-generator")]
-[assembly: System.Reflection.AssemblyTitleAttribute("program005-generator")]
+[assembly: System.Reflection.AssemblyProductAttribute("program007a-bubble-sort")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program007a-bubble-sort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
