@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/obj/Debug/net9.0/program009b-10toK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/obj/Debug/net9.0/program009b-10toK.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/obj/Debug/net9.0/program009b-10toK.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/obj/Debug/net9.0/program009b-10toK.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/obj/Debug/net9.0/program009b-10toK.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/bin/Debug/net9.0/program009b-10toK
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/bin/Debug/net9.0/program009b-10toK.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/bin/Debug/net9.0/program009b-10toK.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/bin/Debug/net9.0/program009b-10toK.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/bin/Debug/net9.0/program009b-10toK.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/obj/Debug/net9.0/program009b-10toK.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/obj/Debug/net9.0/refint/program009b-10toK.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/obj/Debug/net9.0/program009b-10toK.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/obj/Debug/net9.0/program009b-10toK.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program009b-10toK/obj/Debug/net9.0/ref/program009b-10toK.dll
