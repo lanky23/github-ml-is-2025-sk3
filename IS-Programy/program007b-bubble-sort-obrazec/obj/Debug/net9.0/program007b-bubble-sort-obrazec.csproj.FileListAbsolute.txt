@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/obj/Debug/net9.0/program007b-bubble-sort-obrazec.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/obj/Debug/net9.0/program007b-bubble-sort-obrazec.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/obj/Debug/net9.0/program007b-bubble-sort-obrazec.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/obj/Debug/net9.0/program007b-bubble-sort-obrazec.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/obj/Debug/net9.0/program007b-bubble-sort-obrazec.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/bin/Debug/net9.0/program007b-bubble-sort-obrazec
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/bin/Debug/net9.0/program007b-bubble-sort-obrazec.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/bin/Debug/net9.0/program007b-bubble-sort-obrazec.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/bin/Debug/net9.0/program007b-bubble-sort-obrazec.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/bin/Debug/net9.0/program007b-bubble-sort-obrazec.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/obj/Debug/net9.0/program007b-bubble-sort-obrazec.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/obj/Debug/net9.0/refint/program007b-bubble-sort-obrazec.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/obj/Debug/net9.0/program007b-bubble-sort-obrazec.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/obj/Debug/net9.0/program007b-bubble-sort-obrazec.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program007b-bubble-sort-obrazec/obj/Debug/net9.0/ref/program007b-bubble-sort-obrazec.dll

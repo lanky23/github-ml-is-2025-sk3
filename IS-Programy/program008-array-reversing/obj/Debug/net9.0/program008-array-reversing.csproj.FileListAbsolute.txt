@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/obj/Debug/net9.0/program008-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/obj/Debug/net9.0/program008-array-reversing.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/obj/Debug/net9.0/program008-array-reversing.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/obj/Debug/net9.0/program008-array-reversing.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/obj/Debug/net9.0/program008-array-reversing.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/bin/Debug/net9.0/program008-array-reversing
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/bin/Debug/net9.0/program008-array-reversing.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/bin/Debug/net9.0/program008-array-reversing.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/bin/Debug/net9.0/program008-array-reversing.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/bin/Debug/net9.0/program008-array-reversing.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/obj/Debug/net9.0/program008-array-reversing.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/obj/Debug/net9.0/refint/program008-array-reversing.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/obj/Debug/net9.0/program008-array-reversing.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/obj/Debug/net9.0/program008-array-reversing.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program008-array-reversing/obj/Debug/net9.0/ref/program008-array-reversing.dll
