@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/obj/Debug/net9.0/program010a-selection-sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/obj/Debug/net9.0/program010a-selection-sort.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/obj/Debug/net9.0/program010a-selection-sort.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/obj/Debug/net9.0/program010a-selection-sort.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/obj/Debug/net9.0/program010a-selection-sort.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/bin/Debug/net9.0/program010a-selection-sort
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/bin/Debug/net9.0/program010a-selection-sort.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/bin/Debug/net9.0/program010a-selection-sort.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/bin/Debug/net9.0/program010a-selection-sort.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/bin/Debug/net9.0/program010a-selection-sort.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/obj/Debug/net9.0/program010a-selection-sort.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/obj/Debug/net9.0/refint/program010a-selection-sort.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/obj/Debug/net9.0/program010a-selection-sort.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/obj/Debug/net9.0/program010a-selection-sort.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program010a-selection-sort/obj/Debug/net9.0/ref/program010a-selection-sort.dll
