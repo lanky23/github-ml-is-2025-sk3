@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/obj/Debug/net9.0/program013a-NSD-NSN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/obj/Debug/net9.0/program013a-NSD-NSN.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/obj/Debug/net9.0/program013a-NSD-NSN.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/obj/Debug/net9.0/program013a-NSD-NSN.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/obj/Debug/net9.0/program013a-NSD-NSN.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/bin/Debug/net9.0/program013a-NSD-NSN
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/bin/Debug/net9.0/program013a-NSD-NSN.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/bin/Debug/net9.0/program013a-NSD-NSN.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/bin/Debug/net9.0/program013a-NSD-NSN.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/bin/Debug/net9.0/program013a-NSD-NSN.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/obj/Debug/net9.0/program013a-NSD-NSN.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/obj/Debug/net9.0/refint/program013a-NSD-NSN.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/obj/Debug/net9.0/program013a-NSD-NSN.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/obj/Debug/net9.0/program013a-NSD-NSN.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program013a-NSD-NSN/obj/Debug/net9.0/ref/program013a-NSD-NSN.dll
