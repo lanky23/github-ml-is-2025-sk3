@@ -1,0 +1,15 @@
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/obj/Debug/net9.0/program012b-intervaly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/obj/Debug/net9.0/program012b-intervaly.AssemblyInfoInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/obj/Debug/net9.0/program012b-intervaly.AssemblyInfo.cs
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/obj/Debug/net9.0/program012b-intervaly.csproj.CoreCompileInputs.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/obj/Debug/net9.0/program012b-intervaly.sourcelink.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/bin/Debug/net9.0/program012b-intervaly
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/bin/Debug/net9.0/program012b-intervaly.deps.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/bin/Debug/net9.0/program012b-intervaly.runtimeconfig.json
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/bin/Debug/net9.0/program012b-intervaly.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/bin/Debug/net9.0/program012b-intervaly.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/obj/Debug/net9.0/program012b-intervaly.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/obj/Debug/net9.0/refint/program012b-intervaly.dll
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/obj/Debug/net9.0/program012b-intervaly.pdb
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/obj/Debug/net9.0/program012b-intervaly.genruntimeconfig.cache
+/Users/martinlankas/IS-2025-SK3/github-ml-is-2025-sk3/IS-Programy/program012b-intervaly/obj/Debug/net9.0/ref/program012b-intervaly.dll
