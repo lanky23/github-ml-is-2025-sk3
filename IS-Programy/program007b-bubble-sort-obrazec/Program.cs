@@ -66,11 +66,13 @@ while (again == "a")
         for (int j = 0; j < n - 1 - i; j++)
         {
             compare++;
-            if (myRandNumbers[j] > myRandNumbers[j + 1])
+            if (myRandNumbers[j] < myRandNumbers[j + 1])
             {
-                int tmp = myRandNumbers[j + 1] = myRandNumbers[j];
-                myRandNumbers[j] = tmp;
+                int tmp = myRandNumbers[j];
+                myRandNumbers[j] = myRandNumbers[j + 1];
+                myRandNumbers[j + 1] = tmp;
                 change++;
+
             }
 
         }
@@ -97,23 +99,49 @@ while (again == "a")
     Console.WriteLine($"Počet změn: {change}");
     Console.WriteLine();
     Console.WriteLine("Čas potřebný na seřazení čísel pomocí BS: {0}", myStopwatch.Elapsed);
-    
-
-int secondMax = myRandNumbers[1];
 
 
-int height = secondMax;
-int width = secondMax;
+    int max = myRandNumbers[0];
+    int secondMax = max; 
 
-for (int k = 0; k < 2; k++)
+for (int i = 1; i < n; i++)
+{
+    if (myRandNumbers[i] < max)
+    {
+        secondMax = myRandNumbers[i];
+        break;
+    }
+}
+    int height = secondMax;
+    int width = secondMax;     
+
+Console.WriteLine("\nObrazec:\n");
+
+// horní 2 řádky
+for (int r = 0; r < 2; r++)
 {
     for (int i = 0; i < width; i++)
         Console.Write("*");
     Console.WriteLine();
 }
 
+// střední část
+for (int r = 0; r < height - 4; r++)
+{
+    Console.Write("*");
+    for (int i = 0; i < width - 2; i++)
+        Console.Write(" ");
+    Console.Write("*");
+    Console.WriteLine();
+}
 
-
+// dolní 2 řádky
+for (int r = 0; r < 2; r++)
+{
+    for (int i = 0; i < width; i++)
+        Console.Write("*");
+    Console.WriteLine();
+}
 
 
 
